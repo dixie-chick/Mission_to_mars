@@ -7,6 +7,8 @@ This analysis uses splinter and beautiful soup web scraping to create automate d
 ## Debugging
 Lot's of errors can originate with so many applications involved (python, jupyter notebook, flask, mongoDB, ), indenting is critical and running code in jupyter notebook to check blocks can help debug. 
 
+## Mission Success
+
 ![mars_thumbnail](https://user-images.githubusercontent.com/79612565/119294227-d2f58c80-bc08-11eb-8958-a98b299de3e5.png)
 
 
